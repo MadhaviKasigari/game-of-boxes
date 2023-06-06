@@ -1,5 +1,5 @@
 #parent {
-  background-color: #69f0ae;
+  background-color:black;
   margin: auto;
   width: 256px;
   height: 256px;
@@ -27,7 +27,7 @@
 }
 
 #child-3 {
-  width: 0.5rem;
+  width: 2rem;
   height: 2rem;
   background-color: #ffee58;
   /* Position properties below this line */
