@@ -3,34 +3,37 @@
   margin: auto;
   width: 256px;
   height: 256px;
-  /* Position properties below this line */
-
-  /* Position properties above this line */
+  position: sticky;
+  top: 40px;
+  right: 30px;
 }
+ 
 
 #child-1 {
   width: 2rem;
   height: 2rem;
   background-color: #ff8a80;
-  /* Position properties below this line */
+  position: sticky;
+  top: 400px;
+  right: 300px;
 
-  /* Position properties above this line */
-}
+  
 
 #child-2 {
   width: 2rem;
   height: 2rem;
   background-color: #69f0ae;
-  /* Position properties below this line */
-
-  /* Position properties above this line */
+  position: sticky;
+  top: 200px;
+  right: 300px;
 }
+
 
 #child-3 {
   width: 2rem;
   height: 2rem;
   background-color: #ffee58;
-  /* Position properties below this line */
-
-  /* Position properties above this line */
-}
+  position: sticky;
+  top: 200px;
+  right: 300px;
+}    
